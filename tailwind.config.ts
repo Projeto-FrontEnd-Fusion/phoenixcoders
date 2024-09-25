@@ -30,8 +30,14 @@ const config: Config = {
         blue: {
           1: "#28EEED",
           2: "#394C67",
+          3: "#022440",
           hf: "#2B3A4F",
-          4: "#022440"
+          hover: "#23CFCE",
+          pressed: "#1A9998"
+        },
+        neutral: {
+          1: "#EEEEEE",
+          hover: "#B8B8B8"
         },
         orange: {
           1: "#FED674"
