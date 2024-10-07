@@ -15,8 +15,8 @@ const buttonVariants = tv({
         "text-neutral-1 border border-neutral-1 hover:border-neutral-hover active:border-blue-1"
     },
     size: {
-      default: "w-60 h-[60px]",
-      full: "w-full h-[60px]"
+      default: "w-44 h-12",
+      full: "w-full h-12"
     }
   },
 
