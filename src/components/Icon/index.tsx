@@ -1,3 +1,4 @@
+import { IoCloseCircleOutline } from "react-icons/io5";
 import {
   TbBrandCss3,
   TbBrandHtml5,
@@ -11,5 +12,6 @@ export const Icon = {
   html: TbBrandHtml5,
   javascript: TbBrandJavascript,
   nextjs: TbBrandNextjs,
-  typescript: TbBrandTypescript
+  typescript: TbBrandTypescript,
+  close: IoCloseCircleOutline
 };
